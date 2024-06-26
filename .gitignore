@@ -271,3 +271,6 @@ test-results
 k6/summary.html
 chaos/journal.json
 core/test-report.xml
+
+# Stryker
+reports

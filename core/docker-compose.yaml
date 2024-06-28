@@ -5,7 +5,7 @@ networks:
     driver: bridge
 
 services:
-  sonarqube:
+  sonarqube: 
     image: sonarqube:10.2.1-community
     container_name: sonarqube-server
     ports:
